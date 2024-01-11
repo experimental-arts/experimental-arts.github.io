@@ -25,7 +25,7 @@ body {
     justify-content: center;
     align-items: center;
     font-size:8vw;
-    line-height: 1.2;
+    line-height: 1.4;
 }
 .footer {
     padding-top:10vw;
@@ -50,11 +50,10 @@ body {
     font-size: 6vw;
 }
 .button {
-    width: 70vw;
-    height: 22vw;
+    width: 64vw;
+    height: 20vw;
     font-family: 'Archivo-Regular', sans-serif;
     font-size:8vw;
-    margin-bottom:5vw;
     background-color:#FF9900;
     border-radius: 6vw;
     border: 2vw solid #FFC671;
@@ -72,4 +71,7 @@ body {
 }
 .emdash {
     display:none;
+}
+.getitby {
+	margin-top: 5vw;
 }
